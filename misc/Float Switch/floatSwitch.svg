@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="52.023px" height="114.172px" viewBox="140.82 198.589 52.023 114.172"
+	 enable-background="new 140.82 198.589 52.023 114.172" xml:space="preserve">
+<g id="breadboard">
+	<g id="icon_1_">
+		<g id="_x3C_desc_x3E_">
+		</g>
+		<rect id="connector0pin_1_" x="162.152" y="198.59" fill="#F4BC17" width="2.16" height="5.354"/>
+		<rect id="connector1pin" x="169.352" y="198.589" fill="#F4BC17" width="2.16" height="5.355"/>
+		<polygon fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" points="176.568,309.426 176.568,204.235 157.095,204.235 
+			157.095,309.426 145.572,309.426 145.572,312.261 157.095,312.261 176.568,312.261 188.092,312.261 188.092,309.426 		"/>
+		<g>
+			<rect x="141.32" y="250.449" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="51.023" height="56.308"/>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="176.301" y1="204.235" x2="156.826" y2="206.568"/>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="176.301" y1="207.951" x2="156.826" y2="210.283"/>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="176.301" y1="209.808" x2="156.826" y2="212.141"/>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="176.301" y1="211.666" x2="156.826" y2="213.999"/>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="176.301" y1="213.523" x2="156.826" y2="215.856"/>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="176.301" y1="215.38" x2="156.826" y2="217.714"/>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="176.301" y1="217.239" x2="156.826" y2="219.572"/>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="176.301" y1="219.096" x2="156.826" y2="221.429"/>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="176.301" y1="220.954" x2="156.826" y2="223.287"/>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="176.301" y1="222.812" x2="156.826" y2="225.144"/>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="176.301" y1="224.669" x2="156.826" y2="227.002"/>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="176.301" y1="206.092" x2="156.826" y2="208.425"/>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="176.836" y1="226.527" x2="157.363" y2="228.86"/>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="176.836" y1="228.384" x2="157.363" y2="230.717"/>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="176.836" y1="230.242" x2="157.363" y2="232.576"/>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="176.836" y1="232.1" x2="157.363" y2="234.433"/>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="176.836" y1="233.958" x2="157.363" y2="236.291"/>
+			<g>
+				<g>
+					<rect x="149.824" y="205.996" fill="#FFFFFF" width="34.016" height="11.339"/>
+					<path d="M184.34,217.834h-35.016v-12.339h35.016V217.834z M150.324,216.834h33.016v-10.339h-33.016V216.834z"/>
+				</g>
+				<g>
+					<rect x="161.241" y="211.165" transform="matrix(0.014 0.9999 -0.9999 0.014 376.227 41.8172)" width="11.34" height="1"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					<rect x="149.824" y="225.478" fill="#FFFFFF" width="34.016" height="11.339"/>
+					<path d="M184.34,237.317h-35.016v-12.339h35.016V237.317z M150.324,236.317h33.016v-10.339h-33.016V236.317z"/>
+				</g>
+				<g>
+					<rect x="161.241" y="230.647" transform="matrix(0.014 0.9999 -0.9999 0.014 395.7075 61.0279)" width="11.34" height="1"/>
+				</g>
+			</g>
+		</g>
+		<rect id="connector0terminal" x="162.152" y="198.59" fill="#F4BC17" width="2.16" height="2.159"/>
+		<rect id="connector1terminal" x="169.352" y="198.589" fill="#F4BC17" width="2.16" height="2.159"/>
+	</g>
+</g>
+</svg>
