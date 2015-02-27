@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1 Basic//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11-basic.dtd">
+<svg version="1.1" baseProfile="basic" id="Layer_1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="102.047px"
+	 height="122.047px" viewBox="152.929 240.567 102.047 122.047" xml:space="preserve">
+<g id="breadboard">
+	<g id="icon_1_">
+		<g>
+			<rect x="199.276" y="345.606" fill="#F4BC17" width="2.16" height="17.008"/>
+			<rect x="206.477" y="345.606" fill="#F4BC17" width="2.16" height="17.008"/>
+			<rect x="192.076" y="345.606" fill="#F4BC17" width="2.16" height="17.008"/>
+			<rect x="213.669" y="345.606" fill="#F4BC17" width="2.16" height="17.008"/>
+			<polygon fill="#676767" points="210.702,338.662 197.202,338.662 190.01,338.662 190.01,345.606 197.202,345.606 
+				210.702,345.606 217.895,345.606 217.895,338.662 			"/>
+		</g>
+		<rect id="connector0pin_1_" x="192.076" y="357.258" fill="#F4BC17" width="2.16" height="5.354"/>
+		<rect id="connector1pin" x="199.276" y="357.257" fill="#F4BC17" width="2.16" height="5.355"/>
+		<rect id="connector2pin" x="206.477" y="357.256" fill="#F4BC17" width="2.16" height="5.356"/>
+		<rect id="connector3pin" x="213.659" y="357.256" fill="#F4BC17" width="2.16" height="5.356"/>
+		<rect id="connector0terminal" x="192.076" y="360.455" fill="#F4BC17" width="2.16" height="2.159"/>
+		<rect id="connector1terminal" x="199.276" y="360.455" fill="#F4BC17" width="2.16" height="2.159"/>
+		<rect id="connector2terminal" x="206.477" y="360.455" fill="#F4BC17" width="2.16" height="2.159"/>
+		<rect id="connector3terminal" x="213.659" y="360.455" fill="#F4BC17" width="2.16" height="2.159"/>
+		<path d="M152.929,240.567v102.047h102.047V240.567H152.929z M161.716,337.228c-1.878,0-3.401-1.522-3.401-3.401
+			s1.523-3.401,3.401-3.401c1.879,0,3.401,1.522,3.401,3.401S163.595,337.228,161.716,337.228z M161.716,252.755
+			c-1.878,0-3.401-1.522-3.401-3.401s1.523-3.401,3.401-3.401c1.879,0,3.401,1.522,3.401,3.401S163.595,252.755,161.716,252.755z
+			 M246.188,337.228c-1.879,0-3.402-1.522-3.402-3.401s1.523-3.401,3.402-3.401s3.401,1.522,3.401,3.401
+			S248.067,337.228,246.188,337.228z M246.188,252.755c-1.879,0-3.402-1.522-3.402-3.401s1.523-3.401,3.402-3.401
+			s3.401,1.522,3.401,3.401S248.067,252.755,246.188,252.755z"/>
+		<path fill="#E6E6E6" d="M161.716,242.976c-3.522,0-6.378,2.855-6.378,6.378s2.855,6.378,6.378,6.378s6.378-2.855,6.378-6.378
+			S165.238,242.976,161.716,242.976z M161.716,252.755c-1.878,0-3.401-1.522-3.401-3.401s1.523-3.401,3.401-3.401
+			c1.879,0,3.401,1.522,3.401,3.401S163.595,252.755,161.716,252.755z"/>
+		<path fill="#E6E6E6" d="M246.188,242.976c-3.522,0-6.378,2.855-6.378,6.378s2.855,6.378,6.378,6.378s6.378-2.855,6.378-6.378
+			S249.711,242.976,246.188,242.976z M246.188,252.755c-1.878,0-3.401-1.522-3.401-3.401s1.523-3.401,3.401-3.401
+			c1.879,0,3.401,1.522,3.401,3.401S248.067,252.755,246.188,252.755z"/>
+		<path fill="#E6E6E6" d="M161.716,327.449c-3.522,0-6.378,2.855-6.378,6.378s2.855,6.378,6.378,6.378s6.378-2.855,6.378-6.378
+			S165.238,327.449,161.716,327.449z M161.716,337.228c-1.878,0-3.401-1.522-3.401-3.401s1.523-3.401,3.401-3.401
+			c1.879,0,3.401,1.522,3.401,3.401S163.595,337.228,161.716,337.228z"/>
+		<path fill="#E6E6E6" d="M246.188,327.449c-3.522,0-6.378,2.855-6.378,6.378s2.855,6.378,6.378,6.378s6.378-2.855,6.378-6.378
+			S249.711,327.449,246.188,327.449z M246.188,337.228c-1.878,0-3.401-1.522-3.401-3.401s1.523-3.401,3.401-3.401
+			c1.879,0,3.401,1.522,3.401,3.401S248.067,337.228,246.188,337.228z"/>
+		<radialGradient id="SVGID_1_" cx="202.8477" cy="291.5903" r="47.4805" gradientUnits="userSpaceOnUse">
+			<stop  offset="0.51" style="stop-color:#ECECEC"/>
+			<stop  offset="0.8282" style="stop-color:#DBDBDB"/>
+			<stop  offset="1" style="stop-color:#BFBFBF"/>
+		</radialGradient>
+		<circle fill="url(#SVGID_1_)" stroke="#FFFFFF" stroke-width="0.25" cx="202.848" cy="291.59" r="47.48"/>
+		<radialGradient id="SVGID_2_" cx="202.8477" cy="291.5903" r="24.0947" gradientUnits="userSpaceOnUse">
+			<stop  offset="0.551" style="stop-color:#F2F2F2"/>
+			<stop  offset="1" style="stop-color:#ECECEC"/>
+		</radialGradient>
+		<circle fill="url(#SVGID_2_)" stroke="#FFFFFF" stroke-width="0.25" cx="202.848" cy="291.59" r="24.095"/>
+		<g>
+			<line fill="none" stroke="#FFFFFF" stroke-width="0.25" x1="179.365" y1="332.708" x2="226.846" y2="250.47"/>
+			<line fill="none" stroke="#FFFFFF" stroke-width="0.25" x1="179.444" y1="250.471" x2="226.924" y2="332.709"/>
+			<line fill="none" stroke="#FFFFFF" stroke-width="0.25" x1="155.367" y1="291.59" x2="250.328" y2="291.59"/>
+		</g>
+		<radialGradient id="SVGID_3_" cx="202.8477" cy="291.5903" r="13.3228" gradientUnits="userSpaceOnUse">
+			<stop  offset="0.3617" style="stop-color:#F9F9F9"/>
+			<stop  offset="1" style="stop-color:#F2F2F2"/>
+		</radialGradient>
+		<circle fill="url(#SVGID_3_)" stroke="#FFFFFF" stroke-width="0.25" cx="202.848" cy="291.59" r="13.322"/>
+		<g>
+			<line fill="none" stroke="#FFFFFF" stroke-width="0.25" x1="161.729" y1="315.332" x2="243.967" y2="267.851"/>
+			<line fill="none" stroke="#FFFFFF" stroke-width="0.25" x1="203.07" y1="338.942" x2="203.07" y2="243.982"/>
+			<line fill="none" stroke="#FFFFFF" stroke-width="0.25" x1="162.02" y1="267.683" x2="244.258" y2="315.164"/>
+		</g>
+		<radialGradient id="SVGID_4_" cx="202.8477" cy="291.5903" r="5.2441" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#F9F9F9"/>
+		</radialGradient>
+		<circle fill="url(#SVGID_4_)" stroke="#FFFFFF" stroke-width="0.25" cx="202.848" cy="291.59" r="5.244"/>
+	</g>
+</g>
+</svg>

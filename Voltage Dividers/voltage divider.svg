@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1 Basic//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11-basic.dtd">
+<svg version="1.1" baseProfile="basic" id="Layer_1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="70.866px"
+	 height="101.577px" viewBox="134.396 134.536 70.866 101.577" xml:space="preserve">
+<g id="breadboard">
+	<g id="icon_1_">
+		<path fill="#231F20" d="M134.396,136.9v99.213h70.866V136.9H134.396z M141.482,233.278c-2.348,0-4.252-1.903-4.252-4.252
+			s1.904-4.252,4.252-4.252c2.349,0,4.252,1.903,4.252,4.252S143.831,233.278,141.482,233.278z M141.482,148.238
+			c-2.348,0-4.252-1.903-4.252-4.252c0-2.348,1.904-4.252,4.252-4.252c2.349,0,4.252,1.904,4.252,4.252
+			C145.734,146.334,143.831,148.238,141.482,148.238z M198.176,139.734c2.348,0,4.252,1.904,4.252,4.252
+			c0,2.349-1.904,4.252-4.252,4.252s-4.252-1.903-4.252-4.252C193.924,141.638,195.828,139.734,198.176,139.734z M198.177,233.278
+			c-2.35,0-4.252-1.903-4.252-4.252s1.902-4.252,4.252-4.252c2.348,0,4.252,1.903,4.252,4.252S200.524,233.278,198.177,233.278z"/>
+		<text transform="matrix(0 -1 1 0 196.0391 223.2612)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'OCRA'" font-size="4">RobotGeek</tspan><tspan x="0" y="4.801" fill="#FFFFFF" font-family="'OCRA'" font-size="4">LED Driver</tspan></text>
+		<text transform="matrix(1 0 0 1 160.1719 199.5669)" fill="#FFFFFF" font-family="'OCRA'" font-size="7" letter-spacing="2">SVG</text>
+		<g>
+			<title>package:1X08</title>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="167.915" y1="200.224" x2="171.515" y2="200.224"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="171.515" y1="200.224" x2="173.315" y2="202.023"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="173.315" y1="205.624" x2="171.515" y2="207.423"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="158.915" y1="202.023" x2="160.716" y2="200.224"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="160.716" y1="200.224" x2="164.315" y2="200.224"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="164.315" y1="200.224" x2="166.116" y2="202.023"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="166.116" y1="205.624" x2="164.315" y2="207.423"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="164.315" y1="207.423" x2="160.716" y2="207.423"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="160.716" y1="207.423" x2="158.915" y2="205.624"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="167.915" y1="200.224" x2="166.116" y2="202.023"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="166.116" y1="205.624" x2="167.915" y2="207.423"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="171.515" y1="207.423" x2="167.915" y2="207.423"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="158.915" y1="202.023" x2="158.915" y2="205.624"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="175.116" y1="200.224" x2="178.716" y2="200.224"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="178.716" y1="200.224" x2="180.515" y2="202.023"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="180.515" y1="202.023" x2="180.515" y2="205.624"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="180.515" y1="205.624" x2="178.716" y2="207.423"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="175.116" y1="200.224" x2="173.315" y2="202.023"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="173.315" y1="205.624" x2="175.116" y2="207.423"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="178.716" y1="207.423" x2="175.116" y2="207.423"/>
+		</g>
+		<circle id="_x38__2_" fill="none" stroke="#989898" stroke-miterlimit="10" cx="169.83" cy="203.824" r="2.053"/>
+		<circle id="_x38__1_" fill="none" stroke="#989898" stroke-miterlimit="10" cx="177.031" cy="203.824" r="2.053"/>
+		<circle id="_x38_" fill="none" stroke="#989898" stroke-miterlimit="10" cx="162.631" cy="203.824" r="2.053"/>
+		<rect x="159.483" y="208.68" fill="#676767" width="20.692" height="6.944"/>
+		<rect x="168.75" y="215.625" fill="#F4BC17" width="2.16" height="17.008"/>
+		<rect x="175.949" y="215.625" fill="#F4BC17" width="2.16" height="17.008"/>
+		<rect x="161.549" y="215.625" fill="#F4BC17" width="2.16" height="17.008"/>
+		<path fill="#F4BC17" d="M164.081,204.531v-0.707c0-0.805-0.651-1.455-1.455-1.455s-1.455,0.65-1.455,1.455v1.414
+			c0,0.031,0.007,0.061,0.009,0.092v3.351h2.906v-4.149H164.081z"/>
+		<path fill="#F4BC17" d="M178.474,204.531v-0.707c0-0.804-0.651-1.455-1.455-1.455s-1.455,0.651-1.455,1.455v1.414
+			c0,0.031,0.007,0.061,0.009,0.092v3.352h2.906v-4.15H178.474z"/>
+		<path fill="#F4BC17" d="M171.281,204.531v-0.707c0-0.805-0.651-1.455-1.455-1.455s-1.455,0.65-1.455,1.455v1.414
+			c0,0.031,0.008,0.061,0.01,0.092v3.351h2.906v-4.149H171.281z"/>
+		<text transform="matrix(0 -1 1 0 139.623 182.1675)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'OCRA'" font-size="4">20k Pot</tspan><tspan x="0" y="4.8" fill="#FFFFFF" font-family="'OCRA'" font-size="4">CCW = +</tspan><tspan x="0" y="9.6" fill="#FFFFFF" font-family="'OCRA'" font-size="4">CW  = -</tspan></text>
+		<rect x="150.652" y="138.003" fill="#E6E6E5" stroke="#231F20" stroke-miterlimit="10" width="13.607" height="53.857"/>
+		<rect x="150.652" y="138.003" fill="#E6E6E5" stroke="#231F20" stroke-miterlimit="10" width="13.607" height="53.857"/>
+		<rect x="168.881" y="137.9" fill="#285DAA" stroke="#231F20" stroke-miterlimit="10" width="20.125" height="19.843"/>
+		<circle id="connector5terminal" fill="#E6E6E5" cx="184.171" cy="147.822" r="2.834"/>
+		<circle id="connector6terminal" fill="#E6E6E5" cx="174.108" cy="147.822" r="2.835"/>
+		
+			<rect x="156.236" y="135.386" fill="#F4BC17" stroke="#F4BC17" stroke-width="1.7008" stroke-miterlimit="10" width="2.416" height="2.416"/>
+		<g>
+			<g>
+				
+					<line fill="none" stroke="#F4BC17" stroke-width="1.7008" stroke-miterlimit="10" x1="184.605" y1="172.267" x2="184.605" y2="169.422"/>
+				
+					<line fill="none" stroke="#F4BC17" stroke-width="1.7008" stroke-miterlimit="10" x1="177.406" y1="172.267" x2="177.406" y2="169.422"/>
+			</g>
+			<polygon fill="#414141" points="174.662,173.546 178.596,173.546 181.936,173.546 185.869,173.546 187.379,172.037 
+				187.379,168.103 185.869,166.594 181.936,166.594 178.596,166.594 174.662,166.594 173.15,168.103 173.15,172.037 			"/>
+			<polygon fill="#414141" points="174.662,173.546 178.596,173.546 181.936,173.546 185.869,173.546 187.379,172.037 
+				187.379,168.103 185.869,166.594 181.936,166.594 178.596,166.594 174.662,166.594 173.15,168.103 173.15,172.037 			"/>
+			<rect x="182.674" y="169.091" fill="#8C8C8C" width="2.297" height="2.298"/>
+			<rect x="175.475" y="169.091" fill="#8D8455" width="2.297" height="2.298"/>
+			<rect x="176.031" y="169.649" fill="#F4BC17" width="1.182" height="1.183"/>
+			<polygon fill="#F4BC17" points="177.771,171.389 177.213,170.832 176.033,170.832 175.475,171.389 			"/>
+			<polygon fill="#F4BC17" points="176.033,169.649 176.033,170.832 175.475,171.389 175.475,169.091 			"/>
+			<polygon fill="#F4BC17" points="177.213,169.649 176.033,169.649 175.475,169.091 177.771,169.091 			"/>
+			<polygon fill="#F4BC17" points="177.771,171.389 177.213,170.832 177.213,169.649 177.771,169.091 			"/>
+			<rect x="183.23" y="169.649" fill="#F4BC17" width="1.182" height="1.183"/>
+			<polygon fill="#F4BC17" points="184.971,171.389 184.412,170.832 183.232,170.832 182.674,171.389 			"/>
+			<polygon fill="#F4BC17" points="183.232,169.649 183.232,170.832 182.674,171.389 182.674,169.091 			"/>
+			<polygon fill="#F4BC17" points="184.412,169.649 183.232,169.649 182.674,169.091 184.971,169.091 			"/>
+			<polygon fill="#F4BC17" points="184.971,171.389 184.412,170.832 184.412,169.649 184.971,169.091 			"/>
+		</g>
+		<rect id="connector3terminal" x="182.701" y="169.057" fill="#F4BC17" width="2.27" height="2.27"/>
+		<rect id="connector4terminal" x="175.545" y="169.164" fill="#F4BC17" width="2.154" height="2.154"/>
+		<rect id="connector0pin_1_" x="161.55" y="227.28" fill="#F2BB19" width="2.16" height="5.354"/>
+		<rect id="connector1pin_1_" x="168.751" y="227.28" fill="#F2BB19" width="2.16" height="5.354"/>
+		<rect id="connector2pin_1_" x="175.95" y="227.28" fill="#F2BB19" width="2.16" height="5.354"/>
+		<rect id="connector0terminal" x="161.55" y="230.473" fill="#F4BC17" width="2.16" height="2.16"/>
+		<rect id="connector1terminal" x="168.751" y="230.473" fill="#F4BC17" width="2.16" height="2.16"/>
+		<rect id="connector2terminal" x="175.95" y="230.473" fill="#F4BC17" width="2.16" height="2.16"/>
+		<g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.2835" stroke-miterlimit="10" x1="171.945" y1="147.821" x2="176.271" y2="147.821"/>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.2835" stroke-miterlimit="10" x1="174.108" y1="145.657" x2="174.108" y2="149.985"/>
+		</g>
+		<g>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.2835" stroke-miterlimit="10" x1="182.008" y1="147.822" x2="186.336" y2="147.822"/>
+			
+				<line fill="none" stroke="#000000" stroke-width="0.2835" stroke-miterlimit="10" x1="184.172" y1="145.658" x2="184.172" y2="149.986"/>
+		</g>
+	</g>
+</g>
+</svg>

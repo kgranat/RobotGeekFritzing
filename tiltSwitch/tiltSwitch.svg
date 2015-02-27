@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1 Basic//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11-basic.dtd">
+<svg version="1.1" baseProfile="basic" id="Layer_1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="70.866px"
+	 height="99.213px" viewBox="134.396 135.9 70.866 99.213" xml:space="preserve">
+<g id="breadboard">
+	<g id="icon_1_">
+		<path fill="#231F20" d="M134.396,135.9v99.213h70.866V135.9H134.396z M141.482,232.278c-2.348,0-4.252-1.903-4.252-4.252
+			s1.904-4.252,4.252-4.252c2.349,0,4.252,1.903,4.252,4.252S143.831,232.278,141.482,232.278z M141.482,147.238
+			c-2.348,0-4.252-1.903-4.252-4.252c0-2.348,1.904-4.252,4.252-4.252c2.349,0,4.252,1.904,4.252,4.252
+			C145.734,145.334,143.831,147.238,141.482,147.238z M198.176,138.734c2.348,0,4.252,1.904,4.252,4.252
+			c0,2.349-1.904,4.252-4.252,4.252s-4.252-1.903-4.252-4.252C193.924,140.638,195.828,138.734,198.176,138.734z M198.177,232.278
+			c-2.35,0-4.252-1.903-4.252-4.252s1.902-4.252,4.252-4.252c2.348,0,4.252,1.903,4.252,4.252S200.524,232.278,198.177,232.278z"/>
+		<text transform="matrix(0 -1 1 0 196.0391 222.2612)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'OCRA'" font-size="4">RobotGeek</tspan><tspan x="0" y="4.801" fill="#FFFFFF" font-family="'OCRA'" font-size="4">Tilt Switch</tspan></text>
+		<text transform="matrix(1 0 0 1 160.1719 195.5669)" fill="#FFFFFF" font-family="'OCRA'" font-size="7" letter-spacing="2">SVG</text>
+		<g>
+			<title>package:1X08</title>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="167.915" y1="196.224" x2="171.515" y2="196.224"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="171.515" y1="196.224" x2="173.315" y2="198.023"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="173.315" y1="201.624" x2="171.515" y2="203.423"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="158.915" y1="198.023" x2="160.716" y2="196.224"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="160.716" y1="196.224" x2="164.315" y2="196.224"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="164.315" y1="196.224" x2="166.116" y2="198.023"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="166.116" y1="201.624" x2="164.315" y2="203.423"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="164.315" y1="203.423" x2="160.716" y2="203.423"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="160.716" y1="203.423" x2="158.915" y2="201.624"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="167.915" y1="196.224" x2="166.116" y2="198.023"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="166.116" y1="201.624" x2="167.915" y2="203.423"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="171.515" y1="203.423" x2="167.915" y2="203.423"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="158.915" y1="198.023" x2="158.915" y2="201.624"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="175.116" y1="196.224" x2="178.716" y2="196.224"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="178.716" y1="196.224" x2="180.515" y2="198.023"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="180.515" y1="198.023" x2="180.515" y2="201.624"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="180.515" y1="201.624" x2="178.716" y2="203.423"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="175.116" y1="196.224" x2="173.315" y2="198.023"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="173.315" y1="201.624" x2="175.116" y2="203.423"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="178.716" y1="203.423" x2="175.116" y2="203.423"/>
+		</g>
+		<circle id="_x38__2_" fill="none" stroke="#989898" stroke-miterlimit="10" cx="169.83" cy="199.824" r="2.053"/>
+		<circle id="_x38__1_" fill="none" stroke="#989898" stroke-miterlimit="10" cx="177.031" cy="199.824" r="2.053"/>
+		<circle id="_x38_" fill="none" stroke="#989898" stroke-miterlimit="10" cx="162.631" cy="199.824" r="2.053"/>
+		<rect x="159.483" y="204.68" fill="#676767" width="20.692" height="6.944"/>
+		<rect x="168.75" y="211.625" fill="#F4BC17" width="2.16" height="17.008"/>
+		<rect x="175.949" y="211.625" fill="#F4BC17" width="2.16" height="17.008"/>
+		<rect x="161.549" y="211.625" fill="#F4BC17" width="2.16" height="17.008"/>
+		<path fill="#F4BC17" d="M164.081,200.531v-0.707c0-0.805-0.651-1.455-1.455-1.455s-1.455,0.65-1.455,1.455v1.414
+			c0,0.031,0.007,0.061,0.009,0.092v3.351h2.906v-4.149H164.081z"/>
+		<path fill="#F4BC17" d="M178.474,200.531v-0.707c0-0.804-0.651-1.455-1.455-1.455s-1.455,0.651-1.455,1.455v1.414
+			c0,0.031,0.007,0.061,0.009,0.092v3.352h2.906v-4.15H178.474z"/>
+		<path fill="#F4BC17" d="M171.281,200.531v-0.707c0-0.805-0.651-1.455-1.455-1.455s-1.455,0.65-1.455,1.455v1.414
+			c0,0.031,0.008,0.061,0.01,0.092v3.351h2.906v-4.149H171.281z"/>
+		<g>
+			<g id="connector8pin_6_">
+				<path fill="#989898" d="M156.865,207.771c0,1.407-1.145,2.553-2.553,2.553c-1.407,0-2.553-1.146-2.553-2.553
+					s1.146-2.551,2.553-2.551C155.721,205.22,156.865,206.364,156.865,207.771z M152.76,207.771c0,0.855,0.697,1.553,1.553,1.553
+					s1.553-0.697,1.553-1.553s-0.697-1.551-1.553-1.551S152.76,206.916,152.76,207.771z"/>
+			</g>
+			<g id="connector8pin_3_">
+				<path fill="#989898" d="M156.865,184.675c0,1.408-1.145,2.553-2.553,2.553c-1.407,0-2.553-1.145-2.553-2.553
+					c0-1.406,1.146-2.551,2.553-2.551C155.721,182.125,156.865,183.269,156.865,184.675z M152.76,184.675
+					c0,0.856,0.697,1.553,1.553,1.553s1.553-0.696,1.553-1.553c0-0.854-0.697-1.551-1.553-1.551S152.76,183.821,152.76,184.675z"/>
+			</g>
+			<g>
+				<g id="path_5_">
+					<path fill="#8C8C8C" d="M155.801,206.316v1.414c0,0.805-0.651,1.455-1.455,1.455s-1.455-0.65-1.455-1.455v-1.414
+						c0-0.803,0.651-1.455,1.455-1.455S155.801,205.513,155.801,206.316z"/>
+				</g>
+				<g id="path_4_">
+					<path fill="#8C8C8C" d="M155.801,184.687v1.414c0,0.805-0.651,1.455-1.455,1.455s-1.455-0.65-1.455-1.455v-1.414
+						c0-0.803,0.651-1.455,1.455-1.455S155.801,183.884,155.801,184.687z"/>
+				</g>
+				<g>
+					<rect x="152.891" y="185.519" fill="#8C8C8C" width="2.91" height="21.375"/>
+				</g>
+				<g id="body_2_">
+					<path fill="#D8B376" d="M151.836,200.371c-0.133,0.289-0.236,0.783-0.236,1.102v1.588c0,0.318,0.26,0.576,0.576,0.576h4.285
+						c0.317,0,0.576-0.258,0.576-0.576v-1.588c0-0.318-0.109-0.812-0.237-1.102l-0.028-0.057c-0.132-0.289-0.235-0.783-0.235-1.1
+						v-5.75c0-0.316,0.109-0.812,0.235-1.1l0.028-0.057c0.133-0.289,0.237-0.783,0.237-1.102v-1.59c0-0.316-0.259-0.576-0.576-0.576
+						h-4.285c-0.316,0-0.576,0.26-0.576,0.576v1.59c0,0.318,0.109,0.812,0.236,1.102l0.029,0.057c0.132,0.287,0.235,0.783,0.235,1.1
+						v5.75c0,0.316-0.109,0.811-0.235,1.1L151.836,200.371z"/>
+				</g>
+				<g id="gold_band_2_">
+					<rect x="151.595" y="190.392" fill="#AC9E4D" width="5.437" height="0.562"/>
+				</g>
+				<g id="band_rd_multiplier_2_">
+					<rect x="152.101" y="194.152" fill="#F27037" width="4.43" height="1.479"/>
+				</g>
+				<g id="band_2_nd_2_">
+					<rect x="152.101" y="197.111" width="4.43" height="1.48"/>
+				</g>
+				<g id="band_1_st_2_">
+					<path fill="#8A3F1E" d="M151.951,200.066c-0.029,0.092-0.058,0.18-0.092,0.248l-0.029,0.057
+						c-0.132,0.289-0.236,0.783-0.236,1.102v0.068h5.438v-0.068c0-0.318-0.109-0.812-0.236-1.102l-0.028-0.057
+						c-0.035-0.068-0.063-0.156-0.093-0.248H151.951z"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<circle id="connector8pin_8_" fill="none" stroke="#989898" stroke-miterlimit="10" cx="166.115" cy="165.934" r="2.052"/>
+				<circle id="connector8pin_7_" fill="none" stroke="#989898" stroke-miterlimit="10" cx="173.316" cy="165.934" r="2.052"/>
+				<g>
+					<title>package:1X08</title>
+					
+						<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="164.314" y1="162.333" x2="167.914" y2="162.333"/>
+					
+						<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="167.914" y1="162.333" x2="169.715" y2="164.132"/>
+					
+						<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="169.715" y1="167.734" x2="167.914" y2="169.533"/>
+					
+						<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="164.314" y1="162.333" x2="162.516" y2="164.132"/>
+					
+						<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="162.516" y1="167.734" x2="164.314" y2="169.533"/>
+					
+						<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="167.914" y1="169.533" x2="164.314" y2="169.533"/>
+					
+						<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="162.516" y1="164.132" x2="162.516" y2="167.734"/>
+					
+						<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="171.516" y1="162.333" x2="175.115" y2="162.333"/>
+					
+						<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="175.115" y1="162.333" x2="176.914" y2="164.132"/>
+					
+						<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="176.914" y1="164.132" x2="176.914" y2="167.734"/>
+					
+						<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="176.914" y1="167.734" x2="175.115" y2="169.533"/>
+					
+						<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="171.516" y1="162.333" x2="169.715" y2="164.132"/>
+					
+						<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="169.715" y1="167.734" x2="171.516" y2="169.533"/>
+					
+						<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="175.115" y1="169.533" x2="171.516" y2="169.533"/>
+				</g>
+			</g>
+			<path fill="#F4BC17" d="M164.773,165.126v0.707c0,0.804,0.652,1.455,1.455,1.455c0.805,0,1.455-0.651,1.455-1.455v-1.414
+				c0-0.031-0.007-0.061-0.009-0.092v-3.352h-2.906v4.15H164.773z"/>
+			<path fill="#F4BC17" d="M171.967,165.126v0.707c0,0.805,0.65,1.455,1.455,1.455c0.803,0,1.455-0.65,1.455-1.455v-1.414
+				c0-0.031-0.008-0.061-0.01-0.092v-3.351h-2.906v4.149H171.967z"/>
+		</g>
+		<rect x="162.034" y="137.101" fill="#676767" width="15.591" height="24.095"/>
+		<rect x="161.904" y="175.129" fill="#676767" width="7.795" height="6.804"/>
+		<rect id="connector3terminal" x="164.722" y="177.451" width="2.16" height="2.16"/>
+		<rect x="169.73" y="175.129" fill="#676767" width="7.795" height="6.804"/>
+		<rect id="connector4terminal" x="172.548" y="177.451" width="2.16" height="2.16"/>
+		<rect id="connector5terminal" x="164.722" y="137.906" fill="#676767" width="2.16" height="2.16"/>
+		<rect id="connector6terminal" x="172.548" y="137.906" fill="#676767" width="2.16" height="2.16"/>
+		<rect id="connector0pin_1_" x="161.55" y="223.28" fill="#F2BB19" width="2.16" height="5.354"/>
+		<rect id="connector1pin_1_" x="168.751" y="223.28" fill="#F2BB19" width="2.16" height="5.354"/>
+		<rect id="connector2pin_1_" x="175.95" y="223.28" fill="#F2BB19" width="2.16" height="5.354"/>
+		<rect id="connector0terminal" x="161.55" y="226.473" fill="#F4BC17" width="2.16" height="2.16"/>
+		<rect id="connector1terminal" x="168.751" y="226.473" fill="#F4BC17" width="2.16" height="2.16"/>
+		<rect id="connector2terminal" x="175.95" y="226.473" fill="#F4BC17" width="2.16" height="2.16"/>
+		<text transform="matrix(0 -1 1 0 181.4102 156.0991)" fill="#FFFFFF" font-family="'OCRA'" font-size="2">TILT = HIGH</text>
+	</g>
+</g>
+</svg>

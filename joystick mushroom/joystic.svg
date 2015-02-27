@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1 Basic//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11-basic.dtd">
+<svg version="1.1" baseProfile="basic" id="Layer_1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="77.536px"
+	 height="99.884px" viewBox="131.062 135.229 77.536 99.884" xml:space="preserve">
+<g id="breadboard">
+	<g id="icon_1_">
+		<path fill="#231F20" d="M134.396,135.9v99.213h70.866V135.9H134.396z M141.482,232.278c-2.348,0-4.252-1.903-4.252-4.252
+			s1.904-4.252,4.252-4.252c2.349,0,4.252,1.903,4.252,4.252S143.831,232.278,141.482,232.278z M141.482,147.238
+			c-2.348,0-4.252-1.903-4.252-4.252c0-2.348,1.904-4.252,4.252-4.252c2.349,0,4.252,1.904,4.252,4.252
+			C145.734,145.334,143.831,147.238,141.482,147.238z M198.176,138.734c2.348,0,4.252,1.904,4.252,4.252
+			c0,2.349-1.904,4.252-4.252,4.252s-4.252-1.903-4.252-4.252C193.924,140.638,195.828,138.734,198.176,138.734z M198.177,232.278
+			c-2.35,0-4.252-1.903-4.252-4.252s1.902-4.252,4.252-4.252c2.348,0,4.252,1.903,4.252,4.252S200.524,232.278,198.177,232.278z"/>
+		<text transform="matrix(0 -1 1 0 198.0391 222.2612)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'OCRA'" font-size="3">RobotGeek</tspan><tspan x="0" y="3.601" fill="#FFFFFF" font-family="'OCRA'" font-size="3">Joystick</tspan></text>
+		<text transform="matrix(1 0 0 1 160.1719 218.0464)" fill="#FFFFFF" font-family="'OCRA'" font-size="7" letter-spacing="2">SVG</text>
+		<g>
+			<title>package:1X08</title>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="167.915" y1="218.704" x2="171.515" y2="218.704"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="171.515" y1="218.704" x2="173.315" y2="220.502"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="173.315" y1="224.103" x2="171.515" y2="225.903"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="158.915" y1="220.502" x2="160.716" y2="218.704"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="160.716" y1="218.704" x2="164.315" y2="218.704"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="164.315" y1="218.704" x2="166.116" y2="220.502"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="166.116" y1="224.103" x2="164.315" y2="225.903"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="164.315" y1="225.903" x2="160.716" y2="225.903"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="160.716" y1="225.903" x2="158.915" y2="224.103"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="167.915" y1="218.704" x2="166.116" y2="220.502"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="166.116" y1="224.103" x2="167.915" y2="225.903"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="171.515" y1="225.903" x2="167.915" y2="225.903"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="158.915" y1="220.502" x2="158.915" y2="224.103"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="175.116" y1="218.704" x2="178.716" y2="218.704"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="178.716" y1="218.704" x2="180.515" y2="220.502"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="180.515" y1="220.502" x2="180.515" y2="224.103"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="180.515" y1="224.103" x2="178.716" y2="225.903"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="175.116" y1="218.704" x2="173.315" y2="220.502"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="173.315" y1="224.103" x2="175.116" y2="225.903"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="178.716" y1="225.903" x2="175.116" y2="225.903"/>
+		</g>
+		<path fill="#CA2027" d="M160.443,156.535"/>
+		<g>
+			<circle fill="#414141" stroke="#989898" stroke-miterlimit="10" cx="169.83" cy="173.997" r="38.268"/>
+			<circle fill="#676767" stroke="#989898" stroke-miterlimit="10" cx="169.83" cy="173.998" r="28.347"/>
+		</g>
+		<g>
+			<title>package:1X08</title>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="167.82" y1="226.566" x2="171.42" y2="226.566"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="171.42" y1="226.566" x2="173.221" y2="228.365"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="173.221" y1="231.964" x2="171.42" y2="233.765"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="158.82" y1="228.365" x2="160.621" y2="226.566"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="160.621" y1="226.566" x2="164.221" y2="226.566"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="164.221" y1="226.566" x2="166.021" y2="228.365"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="166.021" y1="231.964" x2="164.221" y2="233.765"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="164.221" y1="233.765" x2="160.621" y2="233.765"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="160.621" y1="233.765" x2="158.82" y2="231.964"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="167.82" y1="226.566" x2="166.021" y2="228.365"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="166.021" y1="231.964" x2="167.82" y2="233.765"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="171.42" y1="233.765" x2="167.82" y2="233.765"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="158.82" y1="228.365" x2="158.82" y2="231.964"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="175.021" y1="226.566" x2="178.621" y2="226.566"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="178.621" y1="226.566" x2="180.42" y2="228.365"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="180.42" y1="228.365" x2="180.42" y2="231.964"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="180.42" y1="231.964" x2="178.621" y2="233.765"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="175.021" y1="226.566" x2="173.221" y2="228.365"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="173.221" y1="231.964" x2="175.021" y2="233.765"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="178.621" y1="233.765" x2="175.021" y2="233.765"/>
+		</g>
+		<text transform="matrix(1 0 0 1 146.4365 224.355)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'OCRA'" font-size="4">VERT</tspan><tspan x="0" y="7" fill="#FFFFFF" font-family="'OCRA'" font-size="4">HORZ</tspan></text>
+		<circle id="connector1pad" fill="none" stroke="#989898" stroke-miterlimit="10" cx="169.736" cy="230.165" r="2.052"/>
+		<circle id="connector0pad" fill="none" stroke="#989898" stroke-miterlimit="10" cx="176.936" cy="230.165" r="2.052"/>
+		<circle id="connector2pad" fill="none" stroke="#989898" stroke-miterlimit="10" cx="162.535" cy="230.165" r="2.052"/>
+		<circle id="connector4pad" fill="none" stroke="#989898" stroke-miterlimit="10" cx="169.83" cy="222.303" r="2.052"/>
+		<circle id="connector3pad" fill="none" stroke="#989898" stroke-miterlimit="10" cx="177.031" cy="222.303" r="2.052"/>
+		<circle id="connector5pad" fill="none" stroke="#989898" stroke-miterlimit="10" cx="162.631" cy="222.303" r="2.052"/>
+	</g>
+</g>
+</svg>

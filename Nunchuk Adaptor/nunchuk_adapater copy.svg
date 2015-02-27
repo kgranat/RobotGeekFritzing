@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.2" baseProfile="tiny" id="nunchukadaptor"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="85.039px"
+	 height="85.039px" viewBox="0 0 85.039 85.039" overflow="inherit" xml:space="preserve">
+<g id="breadboard">
+	<polygon points="0,0 0,85.039 22.677,85.039 22.677,76.872 18.624,76.872 18.624,72.62 22.677,72.62 22.677,66.777 30.812,66.777 
+		30.812,85.039 54.227,85.039 54.227,66.777 62.362,66.777 62.362,72.62 66.614,72.62 66.614,76.872 62.362,76.872 62.362,85.039 
+		85.039,85.039 85.039,0 	"/>
+	<rect x="39.647" y="63.371" fill="#999999" width="5.669" height="21.544"/>
+	<rect x="32.417" y="63.371" fill="#999999" width="5.67" height="21.545"/>
+	<rect x="46.877" y="63.371" fill="#999999" width="5.67" height="21.544"/>
+	<text transform="matrix(0 -1 1 0 71.5234 82.7246)" fill="#FFFFFF" font-family="'OCRA'" font-size="4">RobotGeek</text>
+	<text transform="matrix(0 -1 1 0 76.3242 82.7246)" fill="#FFFFFF" font-family="'OCRA'" font-size="4">Wii Nunchuk</text>
+	<text transform="matrix(0 -1 1 0 81.124 82.7246)" fill="#FFFFFF" font-family="'OCRA'" font-size="4">Adapter v2.0</text>
+	<g>
+		<title>package:1X08</title>
+		
+			<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="37.05" y1="52.982" x2="40.649" y2="52.982"/>
+		
+			<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="40.649" y1="52.982" x2="42.45" y2="54.781"/>
+		
+			<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="42.45" y1="58.381" x2="40.649" y2="60.182"/>
+		
+			<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="28.05" y1="54.781" x2="29.851" y2="52.982"/>
+		
+			<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="29.851" y1="52.982" x2="33.45" y2="52.982"/>
+		
+			<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="33.45" y1="52.982" x2="35.251" y2="54.781"/>
+		
+			<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="35.251" y1="58.381" x2="33.45" y2="60.182"/>
+		
+			<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="33.45" y1="60.182" x2="29.851" y2="60.182"/>
+		
+			<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="29.851" y1="60.182" x2="28.05" y2="58.381"/>
+		
+			<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="37.05" y1="52.982" x2="35.251" y2="54.781"/>
+		
+			<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="35.251" y1="58.381" x2="37.05" y2="60.182"/>
+		
+			<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="40.649" y1="60.182" x2="37.05" y2="60.182"/>
+		<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="28.05" y1="54.781" x2="28.05" y2="58.381"/>
+		
+			<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="44.251" y1="52.982" x2="47.851" y2="52.982"/>
+		
+			<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="47.851" y1="52.982" x2="49.649" y2="54.781"/>
+		
+			<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="49.649" y1="58.381" x2="47.851" y2="60.182"/>
+		
+			<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="44.251" y1="52.982" x2="42.45" y2="54.781"/>
+		
+			<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="42.45" y1="58.381" x2="44.251" y2="60.182"/>
+		
+			<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="47.851" y1="60.182" x2="44.251" y2="60.182"/>
+		
+			<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="51.592" y1="52.981" x2="55.191" y2="52.981"/>
+		<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="55.191" y1="52.981" x2="56.99" y2="54.78"/>
+		<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="56.99" y1="54.78" x2="56.99" y2="58.381"/>
+		
+			<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="56.99" y1="58.381" x2="55.191" y2="60.181"/>
+		
+			<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="51.592" y1="52.981" x2="49.791" y2="54.78"/>
+		
+			<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="49.791" y1="58.381" x2="51.592" y2="60.181"/>
+		
+			<line fill="none" stroke="#FFFFFF" stroke-width="0.576" stroke-linecap="round" x1="55.191" y1="60.181" x2="51.592" y2="60.181"/>
+	</g>
+	<circle id="connector7pin" fill="none" stroke="#999999" stroke-miterlimit="10" cx="38.965" cy="56.582" r="2.052"/>
+	<circle id="connector6pin" fill="none" stroke="#999999" stroke-miterlimit="10" cx="46.166" cy="56.582" r="2.052"/>
+	<circle id="connector5pin" fill="none" stroke="#999999" stroke-miterlimit="10" cx="31.765" cy="56.582" r="2.052"/>
+	<circle id="connector4pin" fill="none" stroke="#999999" stroke-miterlimit="10" cx="53.393" cy="56.581" r="2.052"/>
+	<polygon fill="#414141" points="34.796,5.762 34.796,9.695 36.306,11.203 40.239,11.203 43.58,11.203 43.905,11.203 43.906,11.205 
+		47.838,11.205 51.18,11.205 55.113,11.205 56.623,9.697 56.623,5.764 55.113,4.254 51.18,4.254 47.838,4.254 47.516,4.254 
+		47.514,4.252 43.58,4.252 40.239,4.252 36.306,4.252 	"/>
+	<polygon fill="#414141" points="28.277,5.762 28.277,9.695 29.787,11.203 33.72,11.203 37.061,11.203 37.386,11.203 37.387,11.205 
+		41.319,11.205 44.66,11.205 48.594,11.205 50.104,9.697 50.104,5.764 48.594,4.254 44.66,4.254 41.319,4.254 40.996,4.254 
+		40.994,4.252 37.061,4.252 33.72,4.252 29.787,4.252 	"/>
+	<rect id="connector3pin" x="45.068" y="6.65" fill="#F3BC19" width="2.16" height="2.158"/>
+	<rect id="connector2pin" x="30.669" y="6.648" fill="#F3BC19" width="2.16" height="2.16"/>
+	<rect id="connector1pin" x="37.869" y="6.648" fill="#F3BC19" width="2.16" height="2.16"/>
+	<rect id="connector0pin" x="52.199" y="6.65" fill="#F3BC19" width="2.16" height="2.158"/>
+	<circle fill="#FFFFFF" cx="14.09" cy="12.65" r="2.835"/>
+	<circle fill="#FFFFFF" cx="70.835" cy="12.905" r="2.835"/>
+	<circle fill="#FFFFFF" cx="14.09" cy="46.666" r="2.835"/>
+	<circle fill="#FFFFFF" cx="70.835" cy="46.92" r="2.835"/>
+	<rect x="7.173" y="24.891" fill="#E6E6E6" width="7.086" height="9.921"/>
+	<rect x="23.867" y="22" fill="#E6E6E6" width="5.669" height="2.834"/>
+	<rect x="23.867" y="34.917" fill="#E6E6E6" width="5.669" height="2.834"/>
+	<rect x="23.867" y="28.458" fill="#E6E6E6" width="5.669" height="2.834"/>
+	<rect x="14.09" y="20.639" fill="#414141" width="10.205" height="18.425"/>
+	<rect x="32.159" y="22.25" fill="#CB2027" width="2.583" height="5.167"/>
+	<rect x="32.159" y="32.333" fill="#E6E6E6" width="2.583" height="5.167"/>
+	<rect x="45.127" y="20.348" fill="#E6E6E6" width="5.167" height="2.583"/>
+	<rect x="55.506" y="20.348" fill="#E6E6E6" width="5.168" height="2.583"/>
+	<rect x="46.852" y="26.25" fill="#E6E6E6" width="1.34" height="1.668"/>
+	<rect x="45.494" y="30.458" fill="#E6E6E6" width="1.34" height="1.668"/>
+	<rect x="48.08" y="30.458" fill="#E6E6E6" width="1.34" height="1.668"/>
+	<rect x="44.938" y="27.917" fill="#414141" width="5.167" height="2.583"/>
+	<rect x="57.23" y="26.271" fill="#E6E6E6" width="1.34" height="1.668"/>
+	<rect x="55.874" y="30.479" fill="#E6E6E6" width="1.34" height="1.668"/>
+	<rect x="58.459" y="30.479" fill="#E6E6E6" width="1.34" height="1.668"/>
+	<rect x="55.316" y="27.938" fill="#414141" width="5.168" height="2.583"/>
+	<rect x="45.127" y="36.042" fill="#E6E6E6" width="5.167" height="2.583"/>
+	<rect x="55.506" y="36.042" fill="#E6E6E6" width="5.168" height="2.583"/>
+	<text transform="matrix(1 0 0 1 29.2417 62.332)" fill="#FFFFFF" font-family="'OCRA'" font-size="2">GND</text>
+	<text transform="matrix(1 0 0 1 36.0391 62.332)" fill="#FFFFFF" font-family="'OCRA'" font-size="2">3</text>
+	<text transform="matrix(1 0 0 1 37.4409 62.332)" fill="#FFFFFF" font-family="'OCRA'" font-size="2">.</text>
+	<text transform="matrix(1 0 0 1 38.8433 62.332)" fill="#FFFFFF" font-family="'OCRA'" font-size="2">3</text>
+	<text transform="matrix(1 0 0 1 40.2451 62.332)" fill="#FFFFFF" font-family="'OCRA'" font-size="2">v</text>
+	<text transform="matrix(1 0 0 1 43.8228 62.332)" fill="#FFFFFF" font-family="'OCRA'" font-size="2">SDA</text>
+	<text transform="matrix(1 0 0 1 51.2158 62.332)" fill="#FFFFFF" font-family="'OCRA'" font-size="2">SCL</text>
+	<text transform="matrix(1 0 0 1 29.6621 13.5815)" fill="#FFFFFF" font-family="'OCRA'" font-size="2">GND</text>
+	<text transform="matrix(1 0 0 1 37.4629 13.5659)" fill="#FFFFFF" font-family="'OCRA'" font-size="2">5</text>
+	<text transform="matrix(1 0 0 1 38.8647 13.5659)" fill="#FFFFFF" font-family="'OCRA'" font-size="2">v</text>
+	<text transform="matrix(1 0 0 1 44.2432 13.5815)" fill="#FFFFFF" font-family="'OCRA'" font-size="2">SDA</text>
+	<text transform="matrix(1 0 0 1 51.6367 13.5815)" fill="#FFFFFF" font-family="'OCRA'" font-size="2">SCL</text>
+</g>
+</svg>
